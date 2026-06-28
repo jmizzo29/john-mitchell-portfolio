@@ -92,7 +92,7 @@ Capabilities:
 
 ## Leadership Experience
 
-- Senior Solutions Engineer
+- AI LEADER
 - Enterprise Solutions Architect
 - AI Innovation Leader
 - Co-Founder, ShareNPay
