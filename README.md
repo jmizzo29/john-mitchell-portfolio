@@ -62,9 +62,7 @@ Capabilities:
 ### Restarto AI
 Proprietary multi-agent AI system I designed and built.
 
-A CEO-orchestrated agent swarm coordinates specialist roles — Architect, Builder, QA, Security, and others — through an autonomous pipeline from outcome request to verified software delivery.
-
-**Site:** [restarto.ai](https://restarto.ai)
+**Links:** [restarto.ai](https://restarto.ai) · [Marketplace](https://restarto.ai/marketplace/) · [Portfolio](https://restarto.ai/portfolio/)
 
 ---
 
