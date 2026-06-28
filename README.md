@@ -59,16 +59,12 @@ Capabilities:
 
 ---
 
-### Restarto
-AI-powered career transition platform.
+### Restarto AI
+Proprietary multi-agent AI system I designed and built.
 
-Capabilities:
-- Resume scoring
-- Career matching
-- AI recommendations
-- Workforce transition support
+A CEO-orchestrated agent swarm coordinates specialist roles — Architect, Builder, QA, Security, and others — through an autonomous pipeline from outcome request to verified software delivery.
 
-**Tech:** Django, Machine Learning, OpenAI
+**Site:** [restarto.ai](https://restarto.ai)
 
 ---
 
