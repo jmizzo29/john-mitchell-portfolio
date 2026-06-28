@@ -62,8 +62,6 @@ Capabilities:
 ### Restarto AI
 Proprietary multi-agent AI system I designed and built.
 
-**Links:** [restarto.ai](https://restarto.ai) · [Marketplace](https://restarto.ai/marketplace/) · [Portfolio](https://restarto.ai/portfolio/)
-
 ---
 
 ### FamilyTreeApp
