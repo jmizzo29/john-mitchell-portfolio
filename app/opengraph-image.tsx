@@ -49,8 +49,8 @@ export default function OpenGraphImage() {
               maxWidth: 920,
             }}
           >
-            Seeking Director of Solutions Engineering or Principal AI
-            Solution Architect roles.
+            Seeking an autonomous, highly challenging leadership role
+            where I can push AI further.
           </div>
         </div>
         <div

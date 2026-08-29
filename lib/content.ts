@@ -4,7 +4,7 @@ export const site = {
   headline:
     "AI Transformation Leader | Solutions Architect | Solutions Engineering Leader",
   seeking:
-    "Seeking Director of Solutions Engineering or Principal AI Solution Architect roles where I lead teams and ship applied AI.",
+    "Seeking an autonomous, highly challenging leadership role where I can push AI further and use cross-functional people skills to deliver value and cut inefficiency.",
   role: "Lead AI Solution Architect, InvoiceCloud",
   roleDates: "2025–present",
   location: "Lake Alfred, Florida",

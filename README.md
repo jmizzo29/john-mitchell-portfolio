@@ -4,7 +4,7 @@
 
 Lead AI Solution Architect, InvoiceCloud (2025–present) · Lake Alfred, Florida
 
-Seeking Director of Solutions Engineering or Principal AI Solution Architect roles where I lead teams and ship applied AI.
+Seeking an autonomous, highly challenging leadership role where I can push AI further and use cross-functional people skills to deliver value and cut inefficiency.
 
 **Site:** [john-mitchell-portfolio.vercel.app](https://john-mitchell-portfolio.vercel.app)
 
