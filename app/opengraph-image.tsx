@@ -49,8 +49,8 @@ export default function OpenGraphImage() {
               maxWidth: 920,
             }}
           >
-            AI Transformation Leader · Solutions Architect · Solutions
-            Engineering Leader
+            Seeking Director of Solutions Engineering or Principal AI
+            Solution Architect roles.
           </div>
         </div>
         <div
@@ -62,7 +62,7 @@ export default function OpenGraphImage() {
           }}
         >
           <span>Lead AI Solution Architect, InvoiceCloud · 2025–present</span>
-          <span>Lake Alfred, Florida</span>
+          <span>863-602-1732</span>
         </div>
       </div>
     ),
