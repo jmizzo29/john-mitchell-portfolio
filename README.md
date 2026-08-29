@@ -1,110 +1,120 @@
-# John Mitchell
+# John David Mitchell
 
-## AI Transformation Leader | Solutions Architect | Solutions Engineering Leader
+**AI Transformation Leader | Solutions Architect | Solutions Engineering Leader**
 
-I help organizations modernize customer implementations, integrations, and business operations using AI, automation, and enterprise architecture.
+Lead AI Solution Architect at InvoiceCloud (2025–present) · Lake Alfred, Florida
 
-Currently focused on:
-- AI-powered workflow transformation
-- Enterprise SaaS integrations
-- Solutions Architecture
-- Applied AI for customer delivery teams
-- Autonomous fleet operations platforms
+I help organizations modernize customer implementations, integrations, and business operations using AI, automation, and enterprise architecture. I lead people and I ship applied AI — not one or the other.
 
----
+**Site:** [john-mitchell-portfolio.vercel.app](https://john-mitchell-portfolio.vercel.app)
 
-## Highlights
-
-🏆 Winner – 2026 Company-Wide AI Automathon (70 participants)
-
-🤖 Built 15+ AI-powered applications and productivity tools
-
-⏱ Delivered solutions saving 600+ hours annually across multiple teams
-
-👥 Mentored Solutions Engineers and Architects
-
-🚀 Helping redefine how enterprise integrations are built using AI
-
-🏗 Led architecture and delivery for complex enterprise customer implementations
+[LinkedIn](https://www.linkedin.com/in/johndavidmitchell/) · [GitHub](https://github.com/jmizzo29) · [webbywiz@gmail.com](mailto:webbywiz@gmail.com)
 
 ---
 
-## Featured Projects
+## Selected public work
 
-### ROBOAGENT
-Fleet Operating System for autonomous vehicle and future Cybercab owners.
+Live products a recruiter can open. Copy is limited to what the public repo or site actually shows.
 
-Capabilities:
-- Fleet Command Center
-- Revenue Intelligence
-- Vehicle Operations
-- Demand Forecasting
-- Growth Recommendations
-- Tesla Fleet API Integration
+### ROBOAGENT / AutoFleeto
 
-**Tech:** React, Vite, Tailwind, Mapbox, AI
+Fleet OS for autonomous vehicle and future Cybercab owners — command center, vehicle operations, and Tesla Fleet API connection. Live operator console; Tesla sign-in is on the public app.
+
+**Stack:** React, Vite, Tailwind, Mapbox, Clerk
+
+- Live: [autofleeto.com](https://www.autofleeto.com) · [robotaxi-fleetos.vercel.app](https://robotaxi-fleetos.vercel.app)
+- GitHub: [jmizzo29/robotaxi-fleetos](https://github.com/jmizzo29/robotaxi-fleetos)
+
+### Access 4 All
+
+Accessible travel finder for wheelchair users (Spark / BuildAnything Spark hackathon). Search listings with community accessibility data — zero-step entry, roll-in showers, wide doors, WAV, elevator access.
+
+**Stack:** TypeScript, Vite, Tailwind, Supabase, Monad
+
+- Live: [access4all.vercel.app](https://access4all.vercel.app)
+- GitHub: [accesslink](https://github.com/jmizzo29/accesslink) (TypeScript) · [access4all](https://github.com/jmizzo29/access4all)
+
+### GroupPix
+
+Private event albums. Guests scan a QR, add a photo or a short video, and it hits the wall. No accounts. No public feed. The group code is the invite. First market: youth-group events. Repo name is still `crowdsnap`.
+
+**Stack:** React, Vite, Supabase, PWA
+
+- Live: [grouppix.vercel.app](https://grouppix.vercel.app)
+- GitHub: [jmizzo29/crowdsnap](https://github.com/jmizzo29/crowdsnap)
+
+### ShareNPay / Zeroed
+
+Social / P2P payments. Co-founder, 2009–2017. The current public app is Zeroed: add a bill, see who owes whom, settle on Venmo, Zelle, Cash App, or PayPal. The app never takes the money.
+
+**Stack:** Swift / SwiftUI, Firebase, web
+
+- Live: [sharenpay-web.vercel.app](https://sharenpay-web.vercel.app)
+- GitHub: [jmizzo29/sharenpay](https://github.com/jmizzo29/sharenpay)
 
 ---
 
-### ModernAPI
-AI-powered API modernization and architecture review platform.
+## Selected internal work (InvoiceCloud)
 
-Capabilities:
-- FastAPI auditing
-- OpenAPI quality scoring
-- Architecture recommendations
-- API modernization reporting
+Not public demos.
 
-**Tech:** Python, FastAPI, OpenAI
+- Winner, InvoiceCloud 2026 company-wide Automathon (70 participants)
+- 15+ AI applications used by Solutions Engineering and Sales Engineering
+- 600+ hours/year of manual effort removed
+- ACH return-risk ML prototype advanced for pilot review
+- Strategic proposal for scaling enterprise AI (delivery model, governance, prioritization, org structure)
 
 ---
+
+## More work
+
+Personal, earlier, or internal — listed so the GitHub story is complete.
 
 ### Restarto AI
-Proprietary multi-agent AI system I designed and built.
+
+Public GitHub repo is a Django + HTML site for restarto.ai (May 2025). On-page copy: help people separated from employment get hired, and support wellbeing during the transition. The repo is a fork. No public live URL is published on the repo.
+
+- GitHub: [jmizzo29/restartoai](https://github.com/jmizzo29/restartoai)
+
+### FamilyTreeApp / FamilyConnect
+
+Family directory: member profiles, photo sharing, family events, and authentication. Personal project.
+
+**Stack:** React, Vite, Supabase
+
+- GitHub Pages: [jmizzo29.github.io/FamilyTreeApp](https://jmizzo29.github.io/FamilyTreeApp/)
+- GitHub: [jmizzo29/FamilyTreeApp](https://github.com/jmizzo29/FamilyTreeApp)
+
+### ModernAPI
+
+API modernization and architecture review: FastAPI auditing, OpenAPI quality scoring, modernization reporting. **Internal / not public** — no public repo under jmizzo29 and no live URL.
+
+### Loan Shield
+
+Public repository named `loan-shield` with a Vercel project attached. The repo README is a title only. The Vercel URL did not serve a public page when this was written. This is **not** described as the ACH return-risk ML prototype (that work is internal).
+
+- Intended live URL: [loan-shield.vercel.app](https://loan-shield.vercel.app)
+- GitHub: [jmizzo29/loan-shield](https://github.com/jmizzo29/loan-shield)
+
+### MICHAEL
+
+Sparse-graph plus unified guardrail lattice and analog (CA / BZ / DNA / acousto-hydro) inference engines in Rust.
+
+- GitHub: [jmizzo29/michael](https://github.com/jmizzo29/michael)
 
 ---
 
-### FamilyTreeApp
-Modern family directory and engagement platform.
+## Leadership
 
-Capabilities:
-- Member profiles
-- Photo sharing
-- Family events
-- Secure authentication
-
-**Tech:** React, Supabase
+- AI leader
+- Enterprise solutions architect
+- AI innovation leader
+- Co-founder, ShareNPay (2009–2017)
 
 ---
 
-### Lakeland Trek 2025
-Production photo and media platform supporting large youth events.
+## This repository
 
-Capabilities:
-- Mobile uploads
-- Gallery management
-- Admin moderation
-- PWA support
+This repo is the public portfolio site (Next.js). After merge, Vercel should serve it at the homepage URL above. Set the GitHub repo homepage to that URL if it is not already set.
 
-**Tech:** React, Supabase, PWA
-
----
-
-## Leadership Experience
-
-- AI LEADER
-- Enterprise Solutions Architect
-- AI Innovation Leader
-- Co-Founder, ShareNPay
-
-My focus is helping organizations accelerate delivery, reduce operational friction, and create measurable business outcomes through AI and modern architecture practices.
-
----
-
-## Connect
-
-LinkedIn:
-https://www.linkedin.com/in/johndavidmitchell/
-
-GitHub:
-https://github.com/jmizzo29
+No secrets are required to build or deploy.
