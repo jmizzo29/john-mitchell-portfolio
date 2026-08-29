@@ -1,110 +1,50 @@
-# John Mitchell
+# John David Mitchell
 
-## AI Transformation Leader | Solutions Architect | Solutions Engineering Leader
+**AI Transformation Leader | Solutions Architect | Solutions Engineering Leader**
 
-I help organizations modernize customer implementations, integrations, and business operations using AI, automation, and enterprise architecture.
+Lead AI Solution Architect, InvoiceCloud (2025–present) · Lake Alfred, Florida
 
-Currently focused on:
-- AI-powered workflow transformation
-- Enterprise SaaS integrations
-- Solutions Architecture
-- Applied AI for customer delivery teams
-- Autonomous fleet operations platforms
+Seeking an autonomous, highly challenging leadership role where I can push AI further and use cross-functional people skills to deliver value and cut inefficiency.
 
----
+**Site:** [john-mitchell-portfolio.vercel.app](https://john-mitchell-portfolio.vercel.app)
 
-## Highlights
+## Contact
 
-🏆 Winner – 2026 Company-Wide AI Automathon (70 participants)
-
-🤖 Built 15+ AI-powered applications and productivity tools
-
-⏱ Delivered solutions saving 600+ hours annually across multiple teams
-
-👥 Mentored Solutions Engineers and Architects
-
-🚀 Helping redefine how enterprise integrations are built using AI
-
-🏗 Led architecture and delivery for complex enterprise customer implementations
+- Email: [webbywiz@gmail.com](mailto:webbywiz@gmail.com)
+- Phone: [863-602-1732](tel:+18636021732)
+- LinkedIn: [linkedin.com/in/johndavidmitchell](https://www.linkedin.com/in/johndavidmitchell)
+- GitHub: [github.com/jmizzo29](https://github.com/jmizzo29)
 
 ---
 
-## Featured Projects
+## InvoiceCloud (2025–present)
 
-### ROBOAGENT
-Fleet Operating System for autonomous vehicle and future Cybercab owners.
+Lead AI Solution Architect. Internal work — no public demo.
 
-Capabilities:
-- Fleet Command Center
-- Revenue Intelligence
-- Vehicle Operations
-- Demand Forecasting
-- Growth Recommendations
-- Tesla Fleet API Integration
+- Won the 2026 company-wide Automathon (70 participants)
+- Designed and deployed 15+ AI applications used by Solutions Engineering and Sales Engineering
+- 600+ hours/year of manual work removed
+- ACH-return risk prototype advanced for pilot review
+- Strategic proposal for scaling enterprise AI (delivery model, governance, prioritization, org structure)
+- Mentors SEs and Solution Architects; architecture reviews, executive workshops, payment integrations (insurance, utilities, tax)
 
-**Tech:** React, Vite, Tailwind, Mapbox, AI
+## Before InvoiceCloud
 
----
+- **CGI Federal Technical Lead (2021–2025)** — 5B+ records data modernization, exec presentations, Employee of the Quarter Q3 2023, Leadership Development Program
+- **Bullhorn Snowflake Engineer (2019–2021)**
+- **Satuit CSM / TAM (2010–2019)** — 250+ enterprise customers, $4M+ ARR, managed and mentored CS staff
+- **ShareNPay co-founder (2009–2017)**
 
-### ModernAPI
-AI-powered API modernization and architecture review platform.
+## Live demo
 
-Capabilities:
-- FastAPI auditing
-- OpenAPI quality scoring
-- Architecture recommendations
-- API modernization reporting
+**AutoFleeto / ROBOAGENT** — fleet OS for autonomous and robotaxi operations.
 
-**Tech:** Python, FastAPI, OpenAI
+- [autofleeto.com](https://www.autofleeto.com)
+- [robotaxi-fleetos.vercel.app](https://robotaxi-fleetos.vercel.app)
+- [GitHub](https://github.com/jmizzo29/robotaxi-fleetos)
 
----
-
-### Restarto AI
-Proprietary multi-agent AI system I designed and built.
+Other public repos are on the site’s [other work](https://john-mitchell-portfolio.vercel.app/other) page.
 
 ---
 
-### FamilyTreeApp
-Modern family directory and engagement platform.
-
-Capabilities:
-- Member profiles
-- Photo sharing
-- Family events
-- Secure authentication
-
-**Tech:** React, Supabase
-
----
-
-### Lakeland Trek 2025
-Production photo and media platform supporting large youth events.
-
-Capabilities:
-- Mobile uploads
-- Gallery management
-- Admin moderation
-- PWA support
-
-**Tech:** React, Supabase, PWA
-
----
-
-## Leadership Experience
-
-- AI LEADER
-- Enterprise Solutions Architect
-- AI Innovation Leader
-- Co-Founder, ShareNPay
-
-My focus is helping organizations accelerate delivery, reduce operational friction, and create measurable business outcomes through AI and modern architecture practices.
-
----
-
-## Connect
-
-LinkedIn:
-https://www.linkedin.com/in/johndavidmitchell/
-
-GitHub:
-https://github.com/jmizzo29
+This repository is the public site (Next.js). No secrets required to build.
